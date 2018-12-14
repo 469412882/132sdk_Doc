@@ -1,0 +1,1 @@
+.field public static final launchimage:I = 0x7f08942d
