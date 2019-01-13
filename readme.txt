@@ -40,5 +40,9 @@ apkΩ”»Îsdk≤Ω÷Ë£∫
    
    android:visibility="gone"
    android:name="cn.sibat.trafficoperation.base.MyApplication"
+   
+   <LinearLayout android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+   
+   </LinearLayout>
 
    
