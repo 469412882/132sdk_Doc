@@ -42,7 +42,9 @@ apk接入sdk步骤：
    android:name="cn.sibat.trafficoperation.base.MyApplication"
    
    <LinearLayout android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
-   
-   </LinearLayout>
+        <TextView android:textSize="14.0sp" android:textColor="@color/text_remarkable0" android:gravity="center_horizontal" android:id="@id/tv_qq" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="QQ" android:drawableTop="@mipmap/icon_qq" android:drawablePadding="3.0dip" android:layout_weight="1.0" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/text_remarkable0" android:gravity="center_horizontal" android:id="@id/tv_weixin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="35.0dip" android:layout_marginRight="35.0dip" android:text="微信" android:drawableTop="@mipmap/icon_weixin" android:drawablePadding="3.0dip" android:layout_weight="1.0" />
+        <TextView android:textSize="14.0sp" android:textColor="@color/text_remarkable0" android:gravity="center_horizontal" android:id="@id/tv_sina" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="微博" android:drawableTop="@mipmap/icon_sina" android:drawablePadding="3.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
 
    
