@@ -45,7 +45,7 @@
 
 
 
-
+		<meta-data android:name="android.max_aspect" android:value="2.1" />
 		<meta-data android:name="APP_CHANNEL" android:value="cai33"/>
 		<meta-data android:name="android.app.lib_name" android:value="cocos2dlua"/>
 
